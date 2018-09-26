@@ -1,0 +1,10 @@
+C:\Users\Thami Masuku\Documents\POGD\17393749 GADE TASK 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Thami Masuku\Documents\POGD\17393749 GADE TASK 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Thami Masuku\Documents\POGD\17393749 GADE TASK 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Thami Masuku\Documents\POGD\17393749 GADE TASK 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Thami Masuku\Documents\POGD\17393749 GADE TASK 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Thami Masuku\Documents\POGD\17393749 GADE TASK 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Thami Masuku\Documents\POGD\17393749 GADE TASK 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Thami Masuku\Documents\POGD\17393749 GADE TASK 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Thami Masuku\Documents\POGD\17393749 GADE TASK 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Thami Masuku\Documents\POGD\17393749 GADE TASK 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
